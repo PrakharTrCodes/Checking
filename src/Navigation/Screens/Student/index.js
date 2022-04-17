@@ -31,7 +31,7 @@ export default function UsersList() {
                 <View style={styles.rightCon}>
                     <Text numberOfLines={1} style={styles.textStyle}>{item.email}</Text>
                     <Text>
-                        kjhgjhs
+                        kjhgjhshjgds
                     </Text>
                     <Text style={styles.textStyle}>{`${item.first_name} ${item.last_name}`}</Text>
                 </View>
